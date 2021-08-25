@@ -462,8 +462,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 461,0,us2.litecoinpool.org,1,1619562133,1619562133,""
 462,0,datadoghq.com,1,1619635317,1619635317,"Added from Query Log"
 464,0,coinbase.com,1,1619715284,1619715284,"Added from Query Log"
-465,2,(\.|^)progressive\.com$,1,1629839920,1629839920,
-466,2,(\.|^)ally\.com$,1,1629840338,1629840338,
-467,2,(\.|^)sentinelone\.net$,1,1629899740,1629899740,
-468,0,gs-loc.apple.com,1,1629899812,1629899812,
-469,2,(\.|^)ipqualityscore\.com$,1,1629900635,1629900635,
+465,2,(\.|^)progressive\.com$,1,1629839920,1629839920,""
+466,2,(\.|^)ally\.com$,1,1629840338,1629840338,""
+467,2,(\.|^)sentinelone\.net$,1,1629899740,1629899740,""
+468,0,gs-loc.apple.com,1,1629899812,1629899812,""
+469,2,(\.|^)ipqualityscore\.com$,1,1629900635,1629900635,""
