@@ -436,29 +436,34 @@ id,type,domain,enabled,date_added,date_modified,comment
 435,3,((^)|(\.))iq$,1,1593008041,1593008041,"Migrated from /etc/pihole/regex.list"
 436,3,((^)|(\.))ir$,1,1593008041,1593008041,"Migrated from /etc/pihole/regex.list"
 437,3,((^)|(\.))jp$,1,1593008041,1593008041,"Migrated from /etc/pihole/regex.list"
-438,0,cdn2.hubspot.net,1,1593015049,1593015049,
-439,0,aetna.com,1,1594037954,1594037954,
-440,0,gdlp01.c-wss.com,1,1594650845,1594650845,
-441,0,www.slideshare.net,1,1595302152,1595302152,
-442,0,heapanalytics.com,0,1595852250,1595852430,
-443,0,settings.crashlytics.com,0,1595852258,1595852432,
-444,0,firebaselogging-pa.googleapis.com,0,1595852276,1595852434,
-445,0,sdk.split.io,1,1595948146,1595948146,
-446,0,t.paypal.com,1,1595948209,1595948209,
-447,0,fonts.gstatic.com,1,1595948213,1595948213,
-448,0,firebaseremoteconfig.googleapis.com,1,1595987739,1595987739,
-449,0,maps.google.com.mx,1,1595987742,1595987742,
-450,0,mandrillapp.com,1,1600088621,1600088621,
+438,0,cdn2.hubspot.net,1,1593015049,1593015049,""
+439,0,aetna.com,1,1594037954,1594037954,""
+440,0,gdlp01.c-wss.com,1,1594650845,1594650845,""
+441,0,www.slideshare.net,1,1595302152,1595302152,""
+442,0,heapanalytics.com,0,1595852250,1595852430,""
+443,0,settings.crashlytics.com,0,1595852258,1595852432,""
+444,0,firebaselogging-pa.googleapis.com,0,1595852276,1595852434,""
+445,0,sdk.split.io,1,1595948146,1595948146,""
+446,0,t.paypal.com,1,1595948209,1595948209,""
+447,0,fonts.gstatic.com,1,1595948213,1595948213,""
+448,0,firebaseremoteconfig.googleapis.com,1,1595987739,1595987739,""
+449,0,maps.google.com.mx,1,1595987742,1595987742,""
+450,0,mandrillapp.com,1,1600088621,1600088621,""
 451,0,analytics-sm.com,1,1603193241,1603193241,"Added from Query Log"
 452,0,insight.adsrvr.org,1,1603193536,1603193536,"Added from Query Log"
 453,0,cdn.datasteam.io,1,1603193552,1603193552,"Added from Query Log"
 454,0,tst.kaptcha.com,1,1603193575,1603193575,"Added from Query Log"
 455,0,launches.appsflyer.com,1,1606752517,1606752517,"Added from Query Log"
 456,0,api.coinbase.com,1,1606752526,1606752526,"Added from Query Log"
-457,0,aikapool.com,1,1619557823,1619557823,
-458,0,stratum.aikapool.com,1,1619559467,1619559467,
-459,0,litecoinpool.org,1,1619560153,1619560153,
-460,0,www.litecoinpool.org,1,1619560183,1619560183,
-461,0,us2.litecoinpool.org,1,1619562133,1619562133,
+457,0,aikapool.com,1,1619557823,1619557823,""
+458,0,stratum.aikapool.com,1,1619559467,1619559467,""
+459,0,litecoinpool.org,1,1619560153,1619560153,""
+460,0,www.litecoinpool.org,1,1619560183,1619560183,""
+461,0,us2.litecoinpool.org,1,1619562133,1619562133,""
 462,0,datadoghq.com,1,1619635317,1619635317,"Added from Query Log"
 464,0,coinbase.com,1,1619715284,1619715284,"Added from Query Log"
+465,2,(\.|^)progressive\.com$,1,1629839920,1629839920,
+466,2,(\.|^)ally\.com$,1,1629840338,1629840338,
+467,2,(\.|^)sentinelone\.net$,1,1629899740,1629899740,
+468,0,gs-loc.apple.com,1,1629899812,1629899812,
+469,2,(\.|^)ipqualityscore\.com$,1,1629900635,1629900635,
