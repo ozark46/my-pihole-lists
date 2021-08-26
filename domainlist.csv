@@ -467,3 +467,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 467,2,(\.|^)sentinelone\.net$,1,1629899740,1629899740,""
 468,0,gs-loc.apple.com,1,1629899812,1629899812,""
 469,2,(\.|^)ipqualityscore\.com$,1,1629900635,1629900635,""
+470,2,(\.|^)cisecurity\.org$,1,1629907749,1629907749,
+471,0,solidcore.com,1,1629991359,1629991359,
