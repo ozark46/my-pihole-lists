@@ -472,3 +472,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 472,0,www.facebook.com,1,1633372142,1633372142,"Added from Query Log"
 473,0,analytics.plex.tv,1,1633388707,1633388707,"Added from Query Log"
 474,2,(\.|^)lifetouch\.com$,1,1633435185,1633435185,
+476,2,(\.|^)loveboyds\.com$,1,1634321283,1634321283,
