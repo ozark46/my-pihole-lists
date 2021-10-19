@@ -475,3 +475,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 476,2,(\.|^)loveboyds\.com$,1,1634321283,1634321283,
 477,3,(\.|^)playboy\.com$,1,1634321346,1634321346,
 478,3,(\.|^)redtube\.com$,1,1634321352,1634321352,
+479,1,www.playboy.com,1,1634666852,1634666852,
