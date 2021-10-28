@@ -144,7 +144,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 143,0,autodiscover.outlook.com.g.outlook.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 144,0,autodiscover-ca-latam4.outlook.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 145,0,home-assistant.io,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
-146,0,linkedin.com,1,1593008041,1634143495,
+146,0,linkedin.com,1,1593008041,1634143495,""
 147,0,sonos.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 148,0,click.email.sonos.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 149,0,go.pardot.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
@@ -467,12 +467,12 @@ id,type,domain,enabled,date_added,date_modified,comment
 467,2,(\.|^)sentinelone\.net$,1,1629899740,1629899740,""
 468,0,gs-loc.apple.com,1,1629899812,1629899812,""
 469,2,(\.|^)ipqualityscore\.com$,1,1629900635,1629900635,""
-470,2,(\.|^)cisecurity\.org$,1,1629907749,1629907749,
-471,0,solidcore.com,1,1629991359,1629991359,
+470,2,(\.|^)cisecurity\.org$,1,1629907749,1629907749,""
+471,0,solidcore.com,1,1629991359,1629991359,""
 472,0,www.facebook.com,1,1633372142,1633372142,"Added from Query Log"
 473,0,analytics.plex.tv,1,1633388707,1633388707,"Added from Query Log"
-474,2,(\.|^)lifetouch\.com$,1,1633435185,1633435185,
-476,2,(\.|^)loveboyds\.com$,1,1634321283,1634321283,
-477,3,(\.|^)playboy\.com$,1,1634321346,1634321346,
-478,3,(\.|^)redtube\.com$,1,1634321352,1634321352,
-479,1,www.playboy.com,1,1634666852,1634666852,
+474,2,(\.|^)lifetouch\.com$,1,1633435185,1633435185,""
+476,2,(\.|^)loveboyds\.com$,1,1634321283,1634321283,""
+477,3,(\.|^)playboy\.com$,1,1634321346,1634321346,""
+478,3,(\.|^)redtube\.com$,1,1634321352,1634321352,""
+479,1,www.playboy.com,1,1634666852,1634666852,""
