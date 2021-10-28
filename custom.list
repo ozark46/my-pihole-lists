@@ -67,8 +67,6 @@
 10.0.0.67 wemo-christmas-tree.loveboyds.com
 10.0.0.68 wemo-water-heater.loveboyds.com
 10.0.0.69 hue-bridge.loveboyds.com
-10.0.0.71 benny-iphone-8.loveboyds.com
-10.0.0.70 dana-iphone-xs.loveboyds.com
 10.0.0.72 unused-27.loveboyds.com
 10.0.0.73 ring-pool.loveboyds.com
 10.0.0.74 ring-backyard.loveboyds.com
@@ -98,7 +96,6 @@
 10.0.0.98 echo-garage.loveboyds.com
 10.0.0.100 ben-work-mbp.loveboyds.com
 10.0.0.101 ben-work-dock.loveboyds.com
-10.0.0.102 ben-iphone12pro.loveboyds.com
 10.0.0.103 ben-laptop.loveboyds.com
 10.0.0.104 ben-laptop-tbolt.loveboyds.com
 10.0.0.105 ben-ipad-pro-11-3.loveboyds.com
@@ -129,7 +126,6 @@
 10.0.0.130 unused-55.loveboyds.com
 10.0.0.131 benny-ipad-pro-11.loveboyds.com
 10.0.0.132 dana-ipad-mini-2.loveboyds.com
-10.0.0.133 brb4-iphone8.loveboyds.com
 10.0.0.248 nuc-i5-home.loveboyds.com
 10.0.0.249 nuc-00-home.loveboyds.com
 10.0.0.250 unused-250.loveboyds.com
@@ -158,3 +154,7 @@
 10.0.100.207 jumpbox.loveboyds.com
 10.0.0.99 ben-mba-00.loveboyds.com
 10.0.103.199 minecraft.loveboyds.com
+10.0.0.102 ben-iphone.loveboyds.com
+10.0.0.134 dana-iphone.loveboyds.com
+10.0.0.133 benny-iphone.loveboyds.com
+10.0.0.135 theo-iphone.loveboyds.com
