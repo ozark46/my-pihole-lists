@@ -231,7 +231,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 230,0,www.hostgator.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 231,0,opensource.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 232,0,helpdesk.privateinternetaccess.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
-233,0,ipinfo.io,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 234,0,alexa.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 235,0,insideevs.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
 236,0,live.blockcypher.com,1,1593008041,1593008041,"Migrated from /etc/pihole/whitelist.txt"
@@ -477,3 +476,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 478,3,(\.|^)redtube\.com$,1,1634321352,1634321352,""
 479,1,www.playboy.com,1,1634666852,1634666852,""
 480,0,rarbg.to,1,1636519481,1636520008,""
+481,0,ipinfo.io,1,1645407521,1645407521,"Added from Query Log"
