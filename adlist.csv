@@ -1,10 +1,10 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
 1,http://jasonhill.co.uk/pfsense/ytadblock.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-2,http://sysctl.org/cameleon/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1638698223,20564,0,2
-3,https://adaway.org/hosts.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955583,7022,0,1
+2,http://sysctl.org/cameleon/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1646560383,20562,0,2
+3,https://adaway.org/hosts.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1652604782,7038,0,2
 4,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522159,2046,0,2
-5,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955584,14639,0,1
-6,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955584,321,0,1
+5,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023983,14730,0,1
+6,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023983,303,0,1
 7,https://hosts-file.net/ad_servers.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
 8,https://hosts-file.net/emd.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
 9,https://hosts-file.net/exp.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
@@ -12,77 +12,77 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 11,https://hosts-file.net/psh.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
 12,https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
 13,https://mirror1.malwaredomains.com/files/justdomains,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-14,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955587,3673,0,1
-15,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955587,58876,0,1
+14,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023986,3644,0,1
+15,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023986,71636,0,1
 16,https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1629747998,0,0,4
 17,https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1629747998,0,0,4
 18,https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1629747999,0,0,4
 19,https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1629747999,0,0,4
 20,https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1629747999,0,0,4
-21,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1644746329,42517,0,2
+21,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1649580797,42553,0,2
 22,https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_all.list,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522295,1906594,0,2
-23,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522295,378,0,2
-24,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1640512821,696,0,2
+23,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1653209724,347,0,2
+24,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1654419196,686,0,2
 25,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522296,1286,0,2
 26,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1644746337,2190,0,2
 27,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1641117623,57,0,2
-28,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955779,44660,0,1
+28,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023998,50209,0,1
 29,https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522298,9,0,2
-30,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955780,97641,0,1
+30,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655023999,109880,0,1
 31,https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522299,710,0,2
 32,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522300,2701,0,2
 33,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522300,2735,0,2
 34,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522301,34,0,2
-35,https://v.firebog.net/hosts/AdguardDNS.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955781,44384,0,1
+35,https://v.firebog.net/hosts/AdguardDNS.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655024000,46265,0,1
 36,https://v.firebog.net/hosts/BillStearns.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522302,8778,0,2
-37,https://v.firebog.net/hosts/Easylist.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955782,16338,0,1
-38,https://v.firebog.net/hosts/Easyprivacy.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955782,12647,0,1
+37,https://v.firebog.net/hosts/Easylist.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655024000,18116,0,1
+38,https://v.firebog.net/hosts/Easyprivacy.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655024001,12897,0,1
 39,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522303,3670,0,2
-40,https://v.firebog.net/hosts/Prigent-Malware.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955782,58088,0,1
-41,https://v.firebog.net/hosts/Prigent-Phishing.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955783,58088,0,1
+40,https://v.firebog.net/hosts/Prigent-Malware.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1654419201,59363,0,2
+41,https://v.firebog.net/hosts/Prigent-Phishing.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1654419202,59363,0,2
 42,https://v.firebog.net/hosts/Shalla-mal.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522306,19239,0,2
-43,https://v.firebog.net/hosts/static/w3kbl.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522306,357,0,2
+43,https://v.firebog.net/hosts/static/w3kbl.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1650185807,356,0,2
 44,https://www.malwaredomainlist.com/hostslist/hosts.txt,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522306,0,0,2
 45,https://www.squidblacklist.org/downloads/dg-ads.acl,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
 46,https://www.squidblacklist.org/downloads/dg-malicious.acl,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-47,https://zerodot1.gitlab.io/CoinBlockerLists/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1639303297,263148,0,2
+47,https://zerodot1.gitlab.io/CoinBlockerLists/hosts,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1646560450,266513,0,2
 48,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-49,https://tspprs.com/dl/cl1,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522371,0,0,2
-50,https://blocklist.site/app/dl/ads,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645062891,154562,0,2
-51,https://blocklist.site/app/dl/crypto,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955849,23789,0,1
-52,https://blocklist.site/app/dl/drugs,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1644746413,26588,0,2
-53,https://blocklist.site/app/dl/fraud,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522376,196092,0,2
-54,https://blocklist.site/app/dl/porn,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955856,1908825,0,1
-55,https://blocklist.site/app/dl/scam,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955856,1265,0,1
+49,https://tspprs.com/dl/cl1,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655024066,0,0,1
+50,https://blocklist.site/app/dl/ads,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1652000069,154559,0,3
+51,https://blocklist.site/app/dl/crypto,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955849,23789,0,3
+52,https://blocklist.site/app/dl/drugs,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1644746413,26588,0,3
+53,https://blocklist.site/app/dl/fraud,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1651395275,196088,0,3
+54,https://blocklist.site/app/dl/porn,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1652000073,500206,0,3
+55,https://blocklist.site/app/dl/scam,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955856,1265,0,3
 56,https://blocklist.site/app/dl/spam,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-57,https://blocklist.site/app/dl/tracking,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645350978,15051,0,2
-58,https://blocklist.site/app/dl/torrent,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522388,2622,0,2
-59,https://blocklist.site/app/dl/redirect,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1644746426,108675,0,2
+57,https://blocklist.site/app/dl/tracking,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1651395278,15050,0,3
+58,https://blocklist.site/app/dl/torrent,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522388,2622,0,3
+59,https://blocklist.site/app/dl/redirect,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1651395279,108674,0,3
 60,https://blocklist.site/app/dl/proxy,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list","",0,0,4
-61,https://blocklist.site/app/dl/ransomware,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522390,1904,0,2
-62,https://blocklist.site/app/dl/malware,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955860,435314,0,1
-63,https://blocklist.site/app/dl/phishing,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955861,190245,1,1
-64,https://dbl.oisd.nl/,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1645955864,955603,0,1
-65,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1629748433,1629748433,"",1645955864,44676,0,1
+61,https://blocklist.site/app/dl/ransomware,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1636522390,1904,0,3
+62,https://blocklist.site/app/dl/malware,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1651395281,435311,0,3
+63,https://blocklist.site/app/dl/phishing,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1651395283,190241,0,3
+64,https://dbl.oisd.nl/,1,1593008041,1593008041,"Migrated from /etc/pihole/adlists.list",1655024505,1002379,0,1
+65,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1629748433,1629748433,"",1655024506,50852,0,1
 66,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1629748449,1629748449,"",1641117713,57,0,2
-68,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1629748466,1629748466,"",1644746437,2099,0,2
-69,https://someonewhocares.org/hosts/zero/hosts,1,1629748477,1629748477,"",1645062913,10346,0,2
-70,https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts,1,1629748487,1629748487,"",1636522406,6254,0,2
+68,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,1,1629748466,1629748466,"",1653814649,2108,0,2
+69,https://someonewhocares.org/hosts/zero/hosts,1,1629748477,1629748477,"",1654419280,10375,0,2
+70,https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts,1,1629748487,1629748487,"",1650185884,6420,0,2
 71,https://winhelp2002.mvps.org/hosts.txt,1,1629748495,1629748495,"",1636522407,8730,0,2
 72,https://v.firebog.net/hosts/neohostsbasic.txt,1,1629748506,1629748506,"",1636522408,2411,0,2
-73,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1629748515,1629748515,"",1645202261,47367,0,2
+73,https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt,1,1629748515,1629748515,"",1655024508,48074,0,1
 74,https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt,1,1629748534,1629748534,"",1636522409,550,0,2
-75,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1629748544,1629748544,"",1645029216,1623,0,2
-76,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1629748553,1629748553,"",1645350990,15315,0,2
+75,https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts,1,1629748544,1629748544,"",1651395289,1665,0,2
+76,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1629748553,1629748553,"",1655024509,17027,0,1
 77,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1629748561,1629748561,"",1636522411,9,0,2
-78,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1629748569,1629748569,"",1645955869,3673,0,1
-83,https://urlhaus.abuse.ch/downloads/hostfile/,1,1629748618,1629748618,"",1645955870,810,0,1
+78,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1629748569,1629748569,"",1655024510,3644,0,1
+83,https://urlhaus.abuse.ch/downloads/hostfile/,1,1629748618,1629748618,"",1655024511,1133,0,1
 84,https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser,1,1629748627,1629748627,"",1636522413,3496,0,2
 85,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list,1,1629748635,1629748635,"",1636522423,1906594,0,2
 86,https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list,1,1629748644,1629748644,"",1636522424,11868,0,2
 87,https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt,1,1629748652,1629748652,"",1636522425,3996,0,2
 89,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1629748677,1629748677,"",1636522426,1286,0,2
-93,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1629748742,1629748742,"",1645955877,407296,0,1
-94,https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt,1,1629748757,1629748757,"",1645955878,1632,0,1
-95,https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt,1,1629748782,1629748782,"",1645955878,99412,0,1
-96,https://block.energized.pro/unified/formats/domains.txt,1,1645029071,1645029071,"",1645955887,641673,0,1
+93,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1629748742,1629748742,"",1655024518,421302,0,1
+94,https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt,1,1629748757,1629748757,"",1655024518,1698,0,1
+95,https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt,1,1629748782,1629748782,"",1655024519,134263,0,1
+96,https://block.energized.pro/unified/formats/domains.txt,1,1645029071,1645029071,"",1655024524,695968,0,1
